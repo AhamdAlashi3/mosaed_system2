@@ -1,0 +1,614 @@
+@media (max-width: 380.98px) { 
+    /* =============== Sign up Page============*/
+    .logo{
+        width: 255px!important;
+       }
+       .inputName{
+           font-size: 12px!important;
+       }
+    /* =============== Login  Page============*/
+    .logoImg img{
+        width: 250px!important;
+    }
+    .headingPage{
+        font-size: 29px!important;
+    }
+    .goSignUp span{
+        font-size: 14px!important;
+    }
+    .goSignUp a{
+        font-size: 14px!important;
+    }
+    .masaqBtn1{
+        color: #fff;
+        font-size: 10px;
+    }
+
+
+}
+@media (max-width: 575.98px) { 
+    /* =============== Sign up Page============*/
+    .goAccount{
+        text-align:center;
+    }
+    .goAccount span{
+        font-size: 16px;
+    }
+    .goAccount a{
+        font-size: 16px;
+    }
+    .content{
+        width: 85%;
+        overflow: hidden;
+        margin: auto;
+    }
+    .heading{
+        position: static;
+        width:100%;
+        font-size: 45px;
+        line-height: 1px;
+    }
+    .logo{
+        width: 324.59px;
+       }
+    .formLogin{
+        margin-top: 10px;
+    }
+    .SingUpInfo{
+        width: 100%;
+        margin: auto;
+        margin-top:3.5rem;
+    }
+    /* =============== Login  Page============*/
+    .contentLogin{
+        width: 100%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    .formLogin{
+        margin-right:0rem;
+        text-align: center;
+        margin: auto;
+    }
+    .LoginPage{
+        padding:3%;
+    }
+    .logoImg{
+        padding-top:0.5rem;
+        margin: auto;
+        text-align: center;
+    }
+    .loginInfo{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+    .headingPage{
+        position: absolute;
+        top: -80px;
+        text-align: center;
+        margin: auto;
+        margin-right: 9%;
+        font-size: 35px;
+
+    }
+    .input-name{
+        width:100%;
+    }
+    .checkSec{
+        width:100%;
+        height: 120px;
+        display: block!important;
+    }
+    .passWordQuestion{
+        font-size: 20px;
+        text-align: center;
+    }
+    .goSignUp{
+        text-align: center;
+    }
+    .goSignUp span{
+        font-size: 20px;
+        text-align: center;
+    }
+    .goSignUp a{
+        font-size: 20px;
+        text-align: center;
+    }
+    .checkBoxline{
+        width: 100%;
+    }
+    .loginBotton{
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin: 15px;
+    }
+     /* =============== Home Page============*/
+     .sideBar{
+         display: none;
+     }
+     .home-content{
+         width: 100%;
+     }
+    
+     .sideBarItem{
+        font-size:22px;
+    }
+    .upHeading{
+        font-size: 22px;
+        display: inline;
+    }
+    .box{
+        width: 280px;
+    }
+    .userImg{
+        height: 148px;
+    }
+    .userImg img{
+        height: 148px;
+    }
+    .barIcon{
+        display: block;
+        z-index: 5;
+        display: inline;
+        color: var(--boxesColor);
+        position: absolute;
+        top: 40px;
+        left: 40px;
+        display: block;  
+    }
+    .nameOfMasaq p{
+        font-size: 13px;
+    }
+    .person{
+        width: 100%;
+        padding: 20px;
+        height:150px ;
+        position: static;
+    }
+    .person p{
+        font-size: 10px;
+        font-weight: 200;
+        text-align: right;
+        margin-right: 0rem;
+    }
+    /* =============== Masaqat Page============*/
+    .AllMasaqContent{
+        display: block;
+    }
+    .newMasaq{
+        width: 80%;
+        height: 300px;
+        background-color: var(--lightColor);
+        border-radius: 15px;
+        padding: 2rem;
+        text-align: center;
+        margin-right: 6%;
+        z-index: 3;
+        display: none;
+        position: absolute;
+        top: 25%;
+        left: 10%;
+    }
+    .masaqBtn{
+        color: #fff;
+    }
+    .masaqSec{
+        width: 100%;
+        text-align: left;  
+    }
+    .addHalaqt{
+        width: 100%;
+        height: 200px;
+        display: block;
+        text-align: center;
+      }
+      #halaqaName{
+        width: 100%;
+        height: 46px;
+        margin-left: 0%;
+        margin-bottom: 20px;
+      }
+      .halaqaInput{
+        width: 100% ;
+        margin-left: 0%;
+        margin-bottom: 20px;
+
+      }
+      .addHalaqa{
+        width: 80%;
+        height: 60px;
+        padding:10px;
+        margin: auto;
+        margin-bottom: 20px;
+      }
+      .firstData{
+        height: 133px;
+    }
+    .buttons .addMasaqBtn button{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    table th{
+        width:33%;
+        height: 70px;
+        padding: 10px;
+        font-size: 15px;
+    }
+    table td{
+        text-align: center;
+        height: 50px;
+        border-top: none;
+        border-bottom: none;
+    }
+    table, th, td {
+        border: 2px solid var(--minColor);
+    }
+    .buttons{
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 790.98px) {
+    /* =============== Sign up Page============*/
+    .goAccount{
+        text-align:center;
+    }
+    .goAccount span{
+        font-size: 21px;
+    }
+    .goAccount a{
+        font-size: 21px;
+    }
+    .content{
+        width: 70%;
+        overflow: hidden;
+        margin: auto;
+    }
+    .heading{
+        width: 100%;
+    }
+    /* =============== Login  Page============*/
+    .contentLogin{
+        width: 100%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    .formLogin{
+        margin-right:0rem;
+        text-align: center;
+        margin: auto;
+    }
+    .LoginPage{
+        padding:3%;
+    }
+    .logoImg{
+        padding-top:0.5rem;
+        margin: auto;
+        text-align: center;
+    }
+    .loginInfo{
+        width: 70%;
+        margin: auto;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+    .headingPage{
+        position: absolute;
+        top: -80px;
+        text-align: center;
+        margin: auto;
+        margin-right: 22%;
+
+    }
+    .input-name{
+        width:100%;
+    }
+    .checkSec{
+        width:100%;
+    }
+    .passWordQuestion{
+        font-size: 30px;
+    }
+    .goSignUp span{
+        font-size: 30px;
+    }
+    .goSignUp a{
+        font-size: 30px;
+    }
+    /* =============== Home Page============*/
+    .sideBarItem{
+        font-size:15px;
+    }
+    .upHeading{
+        font-size: 45px;
+    }
+    .box{
+        width: 280px;
+    }
+    .userImg{
+        height: 148px;
+    }
+    .userImg img{
+        height: 148px;
+    }
+    .sideBar{
+        display: none;
+    }
+    .home-content{
+        width: 100%;
+    }
+   .upHeading{
+       font-size: 28px;
+       display: inline;
+   }
+   
+   .barIcon{
+       display: block;
+       z-index: 5;
+       display: inline;
+       color: var(--boxesColor);
+       position: absolute;
+       top: 40px;
+       left: 40px;
+       display: block;
+   }
+   .person{
+    width: 100%;
+    padding: 20px;
+    height:150px ;
+    position: static;
+}
+    .person p{
+    font-size: 10px;
+    font-weight: 200;
+    text-align: right;
+    margin-right: 0rem;
+}
+    /* =============== Masaqat Page============*/
+       .AllMasaqContent{
+        display: block;
+    }
+    .newMasaq{
+        width: 80%;
+        height: 300px;
+        background-color: var(--lightColor);
+        border-radius: 15px;
+        padding: 2rem;
+        text-align: center;
+        margin-right: 6%;
+        z-index: 3;
+        display: none;
+        position: absolute;
+        top: 25%;
+        left: 10%;
+    }
+    .masaqBtn{
+        color: #fff;
+    }
+    .masaqSec{
+        width: 100%;
+        text-align: left;  
+    }
+    .addHalaqt{
+        width: 100%;
+        height: 200px;
+        display: block;
+        text-align: center;
+      }
+    #halaqaName{
+        width: 100%;
+        height: 46px;
+        margin-left: 0%;
+        margin-bottom: 20px;
+    }
+    .halaqaInput{
+        width: 100% ;
+        margin-left: 0%;
+        margin-bottom: 20px;
+    }
+    .addHalaqa{
+        width: 20%;
+        height: 50px;
+        padding: 5px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .firstData{
+        height: 133px;
+    }
+    .buttons .addMasaqBtn button{
+        width: 95%;
+        margin-bottom: 20px;
+    }
+    table th{
+        width:33%;
+        height: 70px;
+        padding: 10px;
+        font-size: 15px;
+    }
+    table td{
+        text-align: center;
+        height: 50px;
+        border-top: none;
+        border-bottom: none;
+    }
+    table, th, td {
+        border: 3px solid var(--minColor);
+    }
+    .buttons{
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+    .person p{
+        font-size: 10px;
+    }
+
+
+}
+@media (min-width: 790px) and (max-width: 840.98px) {
+    /* =============== Sign up Page============*/
+    .goAccount span{
+        font-size: 27px;
+    }
+    .goAccount a{
+        font-size: 27px;
+    }
+   /* =============== Login  Page============*/
+    .contentLogin{
+        width: 100%;
+    }
+    .formLogin{
+        margin-right:2rem;
+    }
+    .headingPage{
+        margin-right:2rem;
+    }
+    .passWordQuestion{
+        font-size: 22px;
+    }
+    .goSignUp span{
+        font-size: 22px;
+    }
+    .goSignUp a{
+        font-size: 22px;
+    }
+    /* =============== Home Page============*/
+    .sideBarItem{
+        font-size:22px;
+    }
+    .userImg{
+        height: 205px;
+    }
+    .userImg img{
+        height: 205px;
+    }
+    /* =============== Masaqat Page============*/
+        .AllMasaqContent{
+            display: block;
+        }
+        .newMasaq{
+            width: 80%;
+            height: 300px;
+            background-color: var(--lightColor);
+            border-radius: 15px;
+            padding: 2rem;
+            text-align: center;
+            margin-right: 6%;
+            z-index: 3;
+            display: none;
+            position: absolute;
+            top: 25%;
+            left: 10%;
+        }
+        .masaqBtn{
+            color: #fff;
+        }
+        .masaqSec{
+            width: 50%;
+            text-align: left;  
+        }
+        table th{
+            width:33%;
+            height: 85px;
+            padding: 10px;
+            font-size: 20px;
+          }
+          table td{
+            text-align: center;
+            height:70px;
+            border-top: none;
+            border-bottom: none;
+          }
+          table, th, td {
+            border: 3px solid var(--minColor);
+          }
+          .person p{
+            font-size: 10px;
+        }
+
+}
+
+@media (min-width: 840px) and (max-width: 991.98px) {
+    /* =============== Sign up Page============*/
+    .goAccount span{
+        font-size: 27px;
+    }
+    .goAccount a{
+        font-size: 27px;
+    }
+   /* =============== Login  Page============*/
+    .contentLogin{
+        width: 100%;
+    }
+    .LoginPage{
+        padding:2rem;
+    }
+    /* =============== Home Page============*/
+    .sideBarItem{
+        font-size:25px;
+    }
+    /* =============== Masaqat Page============*/
+    .AllMasaqContent{
+        display: block;
+    }
+    .newMasaq{
+        width: 80%;
+        height: 300px;
+        background-color: var(--lightColor);
+        border-radius: 15px;
+        padding: 2rem;
+        text-align: center;
+        margin-right: 6%;
+        z-index: 3;
+        display: none;
+        position: absolute;
+        top: 25%;
+        left: 10%;
+    }
+    .masaqBtn{
+        color: #fff;
+    }
+    .masaqSec{
+        width: 50%;
+        text-align: left;  
+    }
+    .person p{
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* =============== Login  Page============*/
+    .contentLogin{
+        width: 90%;
+    } 
+    /* =============== Home Page============*/
+    .sideBarItem{
+        font-size:31px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1500.98px) { 
+    /* =============== Login  Page============*/
+    .contentLogin{
+        width: 90%;
+    } 
+}
+
+@media  (max-height: 700px){
+        .person{
+            width: 25%;
+            padding: 20px;
+            height:150px ;
+            /* position: static; */
+        }
+        .person p{
+            font-size: 16px;
+            font-weight: 200;
+            text-align: right;
+            margin-right: 0rem;
+        }
+}
